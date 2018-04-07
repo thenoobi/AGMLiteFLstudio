@@ -17,3 +17,16 @@ Q = PATTERN 1
 7 = PATTERN 6
 9 = PATTERN 7
 0 = PATTERN 8
+
+
+For Chord note:
+C3 = 1
+C#3 > 2
+D3 > 3
+D#3
+E3
+E#3
+F3
+F#3
+G3
+G#3 > 10
